@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300;400;500;600;700&display=swap");
+
+body {
+  font-family: "Source Code Pro", monospace;
+}
+
+h1 {
+  width: fit-content;
+}
+
+.mx-w {
+  max-width: 268px;
+}
+
+.line-height {
+  line-height: 3em !important;
+}
+
+.line-height-h1 {
+  line-height: 1.5em !important;
+}
